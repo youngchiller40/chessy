@@ -1,0 +1,11 @@
+8x8 matrix filled with piece embeddings
+
+positional embedding??
+turn embedding??
+if white has turn, white pieces given additional turn embedding and vice versa
+
+matemb x QWeights = query
+matemb x KWeights = key
+
+matemb x VWeights = value
+
