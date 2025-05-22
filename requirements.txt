@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+transformers
+datasets
+accelerate
+huggingface-hub
+chess
